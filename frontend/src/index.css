@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+}
+
+/* 2 31 55 */
